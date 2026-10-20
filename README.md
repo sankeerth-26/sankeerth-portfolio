@@ -2,9 +2,11 @@
 
 Personal portfolio website showcasing my background, technical skills, projects, experience, and certifications in Data Science, Artificial Intelligence, and Machine Learning.
 
+**Live Website:** [Visit My Portfolio](https://sankeerth-portfolio-five.vercel.app)
+
 ## Overview
 
-This portfolio is built using Next.js and React, with Tailwind CSS for styling. It features a responsive layout, project highlights, technical skills, certifications, social links, and a downloadable resume.
+This portfolio is built using Next.js and React, with Tailwind CSS for styling. It features a responsive layout, project highlights, technical skills, certifications, social links, and access to my resume.
 
 ## Tech Stack
 
@@ -38,10 +40,10 @@ Make sure you have Node.js and npm installed.
    git clone https://github.com/sankeerth-26/sankeerth-portfolio.git
    ```
 
-2. Navigate to the project directory:
+2. Navigate to the cloned project directory:
 
    ```bash
-   cd portfolio2-main
+   cd sankeerth-portfolio
    ```
 
 3. Install dependencies:
@@ -74,13 +76,13 @@ portfolio2-main/
 
 ## Resume
 
-The resume PDF is stored at `public/resume.pdf` and is accessible through the portfolio.
+The resume PDF is stored at `public/resume.pdf` and can be accessed through the portfolio.
 
 ## Contact
 
-- **Email:** sankeerth1920@gmail.com
-- **GitHub:** https://github.com/sankeerth-26
-- **LinkedIn:** https://www.linkedin.com/in/sankeerth-s-1bbba1294
+- **Email:** [sankeerth1920@gmail.com](mailto:sankeerth1920@gmail.com)
+- **GitHub:** [github.com/sankeerth-26](https://github.com/sankeerth-26)
+- **LinkedIn:** [linkedin.com/in/sankeerth-s-1bbba1294](https://www.linkedin.com/in/sankeerth-s-1bbba1294)
 
 ---
 
