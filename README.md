@@ -35,7 +35,7 @@ Make sure you have Node.js and npm installed.
 1. Clone this repository:
 
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone https://github.com/sankeerth-26/sankeerth-portfolio.git
    ```
 
 2. Navigate to the project directory:
